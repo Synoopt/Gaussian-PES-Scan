@@ -18,6 +18,7 @@ A series of simple python batch files to create a 2-dimension gaussian PES scan 
 ### What you need to do
 1. Fill in the blank file path in:
 > template_path = ""
+
 > output_path = ""
 
 2. Run this script, you'll be asked to type in the scanning range, as mentioned before.
@@ -37,6 +38,7 @@ A series of simple python batch files to create a 2-dimension gaussian PES scan 
 ### What you need to do
 1. Fill in the blank file path in:
 > input_dir = ""
+
 > output_dir = ""
 
 2. Run the script, it will automatically run the Gaussian job and give the outputs. The output files will have the same name as the input files.
@@ -53,6 +55,7 @@ A series of simple python batch files to create a 2-dimension gaussian PES scan 
 
 1. Fill in the blank file path in:
 > input_directory = ""
+
 > output_file = ""
 
 2. Run the sciript, it will automatically use the last energy in every output file(no matter if it is converged or not)
