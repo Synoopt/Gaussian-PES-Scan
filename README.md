@@ -59,7 +59,7 @@ A series of simple python batch files to create a 2-dimension gaussian PES scan 
 
 3. The Excel file it create will use the first and second column as the x and y coordinate, the third column as the energy given.
 
-## neuroNetFit-3D.py
+## 4. neuroNetFit-3D.py
 > It's generally the same that you use either the 'neuroNetFit-3D.py' or 'neuroNetFit-3D-2.py', they're just using different NeuroNet fitting function and method.
 > 'neuroNetFit-2D.py' is to give a 2-dimension contour graph.
 
